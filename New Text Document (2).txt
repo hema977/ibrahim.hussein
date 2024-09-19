@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Ibrahim Hussein</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            padding: 20px;
+            margin: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        p {
+            line-height: 1.6;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Ibrahim Hussein Ibrahim Hussein Adakklh</h1>
+        <p><strong>Address:</strong> 15 may , Cairo, Egypt</p>
+        <p><strong>Mobile:</strong> 01155740316</p>
+        <p><strong>Email:</strong> hemaa11199111@gmail.com</p>
+
+        <h2>Career Objective</h2>
+        <p>Seeking a position in the field of technology where excellent analytical and technical skills can be used to improve the profitability of the company.</p>
+
+        <h2>Education Background</h2>
+        <ul>
+            <li>January 2018: Bachelor of Commerce - Ain Shams University</li>
+            <li>Specialization: Statistics, Insurance, and Information Systems</li>
+            <li>Degree: Good with honors</li>
+        </ul>
+
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Microsoft Windows Server 2019</li>
+            <li>Microsoft Windows 7, 8, 8.1, 10</li>
+            <li>Hardware & Software Troubleshooting</li>
+            <li>Printer Troubleshooting</li>
+            <li>Network Sharing</li>
+        </ul>
+
+        <h2>Experiences</h2>
+        <ul>
+            <li>IT Technical Support Specialist at AlnourPharma</li>
+            <li>IT Technical Support Specialist at Omega</li>
+            <li>Network Installation</li>
+            <li>Technical Network Support</li>
+        </ul>
+
+        <h2>Languages</h2>
+        <ul>
+            <li>Arabic (Mother tongue)</li>
+            <li>English (Good)</li>
+        </ul>
+
+        <h2>Interests</h2>
+        <p>I have a keen interest in surfing the Internet.</p>
+
+        <h2>Personal Information</h2>
+        <ul>
+            <li><strong>Date of Birth:</strong> January 1, 1991</li>
+            <li><strong>Religion:</strong> Muslim</li>
+            <li><strong>Marital Status:</strong> Married</li>
+            <li><strong>Nationality:</strong> Egyptian</li>
+        </ul>
+    </div>
+</body>
+</html>
